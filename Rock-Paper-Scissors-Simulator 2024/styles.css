@@ -1,0 +1,21 @@
+h1 {
+  font-size: 2rem;
+  color: #ffffff;
+  text-align: center;
+}
+#RPScanvas{
+  background-color: #ffffff;
+  background-size: 150px;
+  width: 60%; 
+  height: 500px;
+  border: 2px solid;
+  color: #ffffff;
+}
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+}
