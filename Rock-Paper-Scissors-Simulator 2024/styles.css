@@ -1,17 +1,18 @@
 h1 {
   font-size: 2rem;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
 }
 #RPScanvas{
-  background-color: #ffffff;
+  background-color: #c55d5d;
   background-size: 150px;
   width: 60%; 
   height: 500px;
-  border: 2px solid;
-  color: #ffffff;
+  border: 1px solid;
+  color: #000000;
 }
 body {
+  background-image: url("bagi.png");
   margin: 0;
   overflow: hidden;
 }
